@@ -1,1 +1,1 @@
-# 첫번째 자바 미니 프로젝트 (콘솔 사용)
+# BinFree Project (FINAL TEAM PROJECT)
